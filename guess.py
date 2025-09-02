@@ -42,3 +42,6 @@ def guess_number():
 # Запускаем игру
 if __name__ == "__main__":
     guess_number()
+
+
+# This code is AI generated
